@@ -1,4 +1,4 @@
-#include<stdio.h>
+g#include<stdio.h>
 #include<stdlib.h>
 
 struct node{
@@ -203,7 +203,7 @@ void reverse_list()
         }
         head = prev;
     }
-
+printf("\nfor practise in git\n");
 }
 void main()
 {
